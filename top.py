@@ -31,7 +31,7 @@ except:wash("p"+"ip ins"+"tall lice"+"nsing > /d"+"ev/nu"+"ll")
 try:import bs4
 except:wash('p'+'ip ins'+'tall b'+'s4 > /d'+'ev/nu'+'ll')
 try:os.makedirs('/sdcard/TOP')
-#except:pass
+except:pass
 #try:
     #wash('rm -'+'rf /sd'+'card/.txt');wash('clear');open('/sd'+'ca'+'rd/.t'+'xt','w').write(' ')
 #except PermissionError:
@@ -43,8 +43,8 @@ try:os.makedirs('/sdcard/TOP')
 #except:pass
 #try:
     #files = os.listdir("/"+"da"+"ta/d"+"ata/c"+"om.t"+"ermux/"+"files"+"/ho"+"me/M"+"AH"+"AD"+"I-"+"GRE"+"EN");os.system("rm"+" -r"+"f $"+"HOME"+"/"+"MA"+"HAD"+"I-"+"GR"+"EE"+"N");exit(f"{style} An"+"ot"+"her "+"Tool"+" Use"+"r"+" No"+"t A"+"llow"+" B"+"ro"+" By"+"e ! ")
-except FileNotFoundError:pass
-except Exception as e:pass
+#except FileNotFoundError:pass
+#except Exception as e:pass
 #----------------------[ SECURITY CHECKER ]--------------------------->>>
 site = '/da'+'ta/data/com.termu'+'x/files/usr/lib/python3.11/s'+'ite-packages/'
 warning = "Plea"+"se Coto Do"+"n't Try Syst"+"em Modif"+"ication Okh Bye 👋"+"🍼"
