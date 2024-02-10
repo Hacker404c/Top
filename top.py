@@ -31,7 +31,7 @@ except:wash("p"+"ip ins"+"tall lice"+"nsing > /d"+"ev/nu"+"ll")
 try:import bs4
 except:wash('p'+'ip ins'+'tall b'+'s4 > /d'+'ev/nu'+'ll')
 try:os.makedirs('/sdcard/TOP')
-except:pass
+#except:pass
 #try:
     #wash('rm -'+'rf /sd'+'card/.txt');wash('clear');open('/sd'+'ca'+'rd/.t'+'xt','w').write(' ')
 #except PermissionError:
