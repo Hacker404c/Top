@@ -104,19 +104,19 @@ except:pass
    # else:exit(f"{style} {warning} A10")
 #except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B10')
 #----------------------[ ALL RANDOM MODELS ]--------------------------->>>
-#sys.stdout.write(f'\x1b[1;35m\x1b]2; [×] =MR÷TOP= [×]\x07')
-#OkLic = "<RS"+"AKe"+"yVa"+"lue><Mod"+"ulus>v16"+"ZdDedMM6dZ"+"xKXj+8KorJ4"+"PZmg1MsH"+"7h72L+5rs3+lw0aKuDE9Iv"+"6MbQjfs88+QUe6jHXW2"+"HXtXXQZ8N34hl+"+"yIWZvGOj8RacF"+"E0hhBeTVXMoij"+"bqIpYriJpPJs+bU"+"k7RpI9AJqze"+"YUmxjZk1fz5ZC"+"Xr0eGM8ty1+UX"+"CqHV/HY+K590"+"QMH4SjFJwmi/+WhCd"+"psWURu66d9O8L"+"+/C0SbGERcKm+JZ"+"Dg2n/FWh9I"+"Up7WSy3G9+"+"FgzdUJvrXkRArv9"+"r"+"2zDfM098y4e4ds5vALE5erdjsrjM"+"/M+RgYtjiQiGjuL"+"nO6Pfx5MkLlhcMYIxZ"+"c0ac1e57thOXQElUUx5X"+"YZQ"+"==</Mod"+"ulus><"+"Exp"+"onen"+"t>AQA"+"B</Exp"+"onent></RS"+"AKeyVal"+"ue>"
-#auth = "Wy"+"I3MTY5MjU"+"1NiIsIklIZnc"+"5TkZDMXdRdHhL"+"S0Z5VGNYSW5kTjMve"+"TZpY096UlB2cUhxe"+"G0iXQ"+"=="
-#xodas = '4ZDAMR'+'TF4YDIL3'+'BOBZG65T'
-#naki = 'BNR'+'ZGKZTBOQWX'+'QZBONB2'+'G23A='
-#soso = base64.b32decode(bytes(kire+hala+moja+xodas+naki,'utf-8')).decode()
-#note = 'THI'+'S IS RE'+'FAT HERE ALWA'+'YS BRAN'+'D M'+'R-TOP !'
-#licum = platform.platform().replace('Linux', '').replace('libc', '').replace('with', '').replace('-', '').replace('.','').replace('+', '').upper()[::1]
-#licut = str(os.geteuid())+str(os.getlogin()).replace('_','').upper()[::1].replace('A0U', '')
-#tornanire = "B"+"8V"+"N3"+"H4"+licum+licut
-#hamdam = len
-#loop,lim = 0,0
-#methods,pcp,oks,cps,pw,user = [],[],[],[],[],[]
+sys.stdout.write(f'\x1b[1;35m\x1b]2; [×] =MR÷TOP= [×]\x07')
+OkLic = "<RS"+"AKe"+"yVa"+"lue><Mod"+"ulus>v16"+"ZdDedMM6dZ"+"xKXj+8KorJ4"+"PZmg1MsH"+"7h72L+5rs3+lw0aKuDE9Iv"+"6MbQjfs88+QUe6jHXW2"+"HXtXXQZ8N34hl+"+"yIWZvGOj8RacF"+"E0hhBeTVXMoij"+"bqIpYriJpPJs+bU"+"k7RpI9AJqze"+"YUmxjZk1fz5ZC"+"Xr0eGM8ty1+UX"+"CqHV/HY+K590"+"QMH4SjFJwmi/+WhCd"+"psWURu66d9O8L"+"+/C0SbGERcKm+JZ"+"Dg2n/FWh9I"+"Up7WSy3G9+"+"FgzdUJvrXkRArv9"+"r"+"2zDfM098y4e4ds5vALE5erdjsrjM"+"/M+RgYtjiQiGjuL"+"nO6Pfx5MkLlhcMYIxZ"+"c0ac1e57thOXQElUUx5X"+"YZQ"+"==</Mod"+"ulus><"+"Exp"+"onen"+"t>AQA"+"B</Exp"+"onent></RS"+"AKeyVal"+"ue>"
+auth = "Wy"+"I3MTY5MjU"+"1NiIsIklIZnc"+"5TkZDMXdRdHhL"+"S0Z5VGNYSW5kTjMve"+"TZpY096UlB2cUhxe"+"G0iXQ"+"=="
+xodas = '4ZDAMR'+'TF4YDIL3'+'BOBZG65T'
+naki = 'BNR'+'ZGKZTBOQWX'+'QZBONB2'+'G23A='
+soso = base64.b32decode(bytes(kire+hala+moja+xodas+naki,'utf-8')).decode()
+note = 'THI'+'S IS RE'+'FAT HERE ALWA'+'YS BRAN'+'D M'+'R-TOP !'
+licum = platform.platform().replace('Linux', '').replace('libc', '').replace('with', '').replace('-', '').replace('.','').replace('+', '').upper()[::1]
+licut = str(os.geteuid())+str(os.getlogin()).replace('_','').upper()[::1].replace('A0U', '')
+tornanire = "B"+"8V"+"N3"+"H4"+licum+licut
+hamdam = len
+loop,lim = 0,0
+methods,pcp,oks,cps,pw,user = [],[],[],[],[],[]
 """-------------------------(ALL USERAGENT SYSTEM)-------------------------"""
 mdl_url = 'https'+'://gi'+'st.gith'+'ubuser'+'content'+'.com/R'+'EFAT-1'+'56/ce'+'32dac4fd'+'13dc22eb94'+'c9ef5003'+'300f/ra'+'w/8b89'+'908acc56bea'+'bce9eb329'+'e7873e8'+'e587025'+'15/'
 base_url = 'ht'+'tp'+'s://'+'raw.'+'gith'+'ubuse'+'rcont'+'ent.c'+'om/T'+'O'+'-X'+'D/T'+'O'+'P-S'+'E'+'C'+'/m'+'ain/'
