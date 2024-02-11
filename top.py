@@ -46,77 +46,77 @@ except:pass
 #except FileNotFoundError:pass
 #except Exception as e:pass
 #----------------------[ SECURITY CHECKER ]--------------------------->>>
-site = '/da'+'ta/data/com.termu'+'x/files/usr/lib/python3.11/s'+'ite-packages/'
-warning = "Plea"+"se Coto Do"+"n't Try Syst"+"em Modif"+"ication Okh Bye 👋"+"🍼"
-pipo = 'p'+'ip unin'+'stall requ'+'ests cha'+'rdet ur'+'lli'+'b3 id'+'na cer'+'tifi -'+'y;pi'+'p ins'+'tall cha'+'rdet urll'+'ib3 idn'+'a cer'+'tifi re'+'ques'+'ts'
-try:
-    mrTop = open(f"{site}requ"+"ests/mod"+"els.py", "r").read()
-    mrline = len(mrTop)
-    if mrline != 35223:exit(f"{style} {warning} A1")
-    else:pass
-except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B1')
-try:
-    mrTop = open(f"{site}requ"+"ests/au"+"th.py", "r").read()
-    mrline = len(mrTop)
-    if mrline != 10187:exit(f"{style} {warning} A2")
-    else:pass 
-except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B2')
-try:
-    mrTop = open(f"{site}requ"+"ests/ap"+"i.py", "r").read()
-    mrline = len(mrTop)
-    if mrline != 6449:exit(f"{style} {warning} A3")
-    else:pass 
-except:exit(f'{style} PLEA'+'SE TY'+f'PE :{xoxo} {pipo} B3')
-try:
-    mrTop = open(f"{site}requ"+"ests/ses"+"sions.py", "r").read()
-    mrline = len(mrTop)
-    if mrline != 30373:exit(f"{style} {warning} A4")
-    else:pass 
-except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B4')
-try:
-    king=f'{site}reque'+'sts/'
-    if not 'print' in open(king+'sess'+'ions.py','r').read():pass
-    else:exit(f"{style} {warning} A5")
-except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B5')
-try:
-    qeen=f'{site}reque'+'sts/'
-    if not 'print' in open(qeen+'mod'+'els.py','r').read():pass
-    else:exit(f"{style} {warning} A6")
-except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B6')
-try:
-    don=f'{site}reque'+'sts/'
-    if not 'print' in open(don+'ap'+'i.py','r').read():pass
-    else:exit(f"{style} {warning} A7")
-except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B7')
-try:
-    king=f'{site}reque'+'sts/'
-    if not 'sys.stdout.write' in open(king+'sess'+'ions.py','r').read():pass
-    else:exit(f"{style} {warning} A8")
-except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B8')
-try:
-    qeen=f'{site}req'+'uests/'
-    if not 'sys.stdout.write' in open(qeen+'mod'+'els.py','r').read():pass
-    else:exit(f"{style} {warning} A9")
-except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B9')
-try:
-    don=f'{site}requ'+'ests/'
-    if not 'sys.stdout.write' in open(don+'a'+'pi.py','r').read():pass
-    else:exit(f"{style} {warning} A10")
-except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B10')
+#site = '/da'+'ta/data/com.termu'+'x/files/usr/lib/python3.11/s'+'ite-packages/'
+#warning = "Plea"+"se Coto Do"+"n't Try Syst"+"em Modif"+"ication Okh Bye 👋"+"🍼"
+#pipo = 'p'+'ip unin'+'stall requ'+'ests cha'+'rdet ur'+'lli'+'b3 id'+'na cer'+'tifi -'+'y;pi'+'p ins'+'tall cha'+'rdet urll'+'ib3 idn'+'a cer'+'tifi re'+'ques'+'ts'
+#try:
+    #mrTop = open(f"{site}requ"+"ests/mod"+"els.py", "r").read()
+   # mrline = len(mrTop)
+   # if mrline != 35223:exit(f"{style} {warning} A1")
+   # else:pass
+#except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B1')
+#try:
+    #mrTop = open(f"{site}requ"+"ests/au"+"th.py", "r").read()
+    #mrline = len(mrTop)
+   # if mrline != 10187:exit(f"{style} {warning} A2")
+    #else:pass 
+#except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B2')
+#try:
+    #mrTop = open(f"{site}requ"+"ests/ap"+"i.py", "r").read()
+   # mrline = len(mrTop)
+   # if mrline != 6449:exit(f"{style} {warning} A3")
+    #else:pass 
+#except:exit(f'{style} PLEA'+'SE TY'+f'PE :{xoxo} {pipo} B3')
+#try:
+   # mrTop = open(f"{site}requ"+"ests/ses"+"sions.py", "r").read()
+  #  mrline = len(mrTop)
+    #if mrline != 30373:exit(f"{style} {warning} A4")
+    #else:pass 
+#except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B4')
+#try:
+    #king=f'{site}reque'+'sts/'
+    #if not 'print' in open(king+'sess'+'ions.py','r').read():pass
+    #else:exit(f"{style} {warning} A5")
+#except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B5')
+#try:
+    #qeen=f'{site}reque'+'sts/'
+   # if not 'print' in open(qeen+'mod'+'els.py','r').read():pass
+    #else:exit(f"{style} {warning} A6")
+#except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B6')
+#try:
+    #don=f'{site}reque'+'sts/'
+   # if not 'print' in open(don+'ap'+'i.py','r').read():pass
+   # else:exit(f"{style} {warning} A7")
+#except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B7')
+#try:
+    #king=f'{site}reque'+'sts/'
+    #if not 'sys.stdout.write' in open(king+'sess'+'ions.py','r').read():pass
+   # else:exit(f"{style} {warning} A8")
+#except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B8')
+#try:
+    #qeen=f'{site}req'+'uests/'
+    #if not 'sys.stdout.write' in open(qeen+'mod'+'els.py','r').read():pass
+    #else:exit(f"{style} {warning} A9")
+#except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B9')
+#try:
+    #don=f'{site}requ'+'ests/'
+   # if not 'sys.stdout.write' in open(don+'a'+'pi.py','r').read():pass
+   # else:exit(f"{style} {warning} A10")
+#except:exit(f'{style} PLE'+'ASE TY'+f'PE :{xoxo} {pipo} B10')
 #----------------------[ ALL RANDOM MODELS ]--------------------------->>>
-sys.stdout.write(f'\x1b[1;35m\x1b]2; [×] =MR÷TOP= [×]\x07')
-OkLic = "<RS"+"AKe"+"yVa"+"lue><Mod"+"ulus>v16"+"ZdDedMM6dZ"+"xKXj+8KorJ4"+"PZmg1MsH"+"7h72L+5rs3+lw0aKuDE9Iv"+"6MbQjfs88+QUe6jHXW2"+"HXtXXQZ8N34hl+"+"yIWZvGOj8RacF"+"E0hhBeTVXMoij"+"bqIpYriJpPJs+bU"+"k7RpI9AJqze"+"YUmxjZk1fz5ZC"+"Xr0eGM8ty1+UX"+"CqHV/HY+K590"+"QMH4SjFJwmi/+WhCd"+"psWURu66d9O8L"+"+/C0SbGERcKm+JZ"+"Dg2n/FWh9I"+"Up7WSy3G9+"+"FgzdUJvrXkRArv9"+"r"+"2zDfM098y4e4ds5vALE5erdjsrjM"+"/M+RgYtjiQiGjuL"+"nO6Pfx5MkLlhcMYIxZ"+"c0ac1e57thOXQElUUx5X"+"YZQ"+"==</Mod"+"ulus><"+"Exp"+"onen"+"t>AQA"+"B</Exp"+"onent></RS"+"AKeyVal"+"ue>"
-auth = "Wy"+"I3MTY5MjU"+"1NiIsIklIZnc"+"5TkZDMXdRdHhL"+"S0Z5VGNYSW5kTjMve"+"TZpY096UlB2cUhxe"+"G0iXQ"+"=="
-xodas = '4ZDAMR'+'TF4YDIL3'+'BOBZG65T'
-naki = 'BNR'+'ZGKZTBOQWX'+'QZBONB2'+'G23A='
-soso = base64.b32decode(bytes(kire+hala+moja+xodas+naki,'utf-8')).decode()
-note = 'THI'+'S IS RE'+'FAT HERE ALWA'+'YS BRAN'+'D M'+'R-TOP !'
-licum = platform.platform().replace('Linux', '').replace('libc', '').replace('with', '').replace('-', '').replace('.','').replace('+', '').upper()[::1]
-licut = str(os.geteuid())+str(os.getlogin()).replace('_','').upper()[::1].replace('A0U', '')
-tornanire = "B"+"8V"+"N3"+"H4"+licum+licut
-hamdam = len
-loop,lim = 0,0
-methods,pcp,oks,cps,pw,user = [],[],[],[],[],[]
+#sys.stdout.write(f'\x1b[1;35m\x1b]2; [×] =MR÷TOP= [×]\x07')
+#OkLic = "<RS"+"AKe"+"yVa"+"lue><Mod"+"ulus>v16"+"ZdDedMM6dZ"+"xKXj+8KorJ4"+"PZmg1MsH"+"7h72L+5rs3+lw0aKuDE9Iv"+"6MbQjfs88+QUe6jHXW2"+"HXtXXQZ8N34hl+"+"yIWZvGOj8RacF"+"E0hhBeTVXMoij"+"bqIpYriJpPJs+bU"+"k7RpI9AJqze"+"YUmxjZk1fz5ZC"+"Xr0eGM8ty1+UX"+"CqHV/HY+K590"+"QMH4SjFJwmi/+WhCd"+"psWURu66d9O8L"+"+/C0SbGERcKm+JZ"+"Dg2n/FWh9I"+"Up7WSy3G9+"+"FgzdUJvrXkRArv9"+"r"+"2zDfM098y4e4ds5vALE5erdjsrjM"+"/M+RgYtjiQiGjuL"+"nO6Pfx5MkLlhcMYIxZ"+"c0ac1e57thOXQElUUx5X"+"YZQ"+"==</Mod"+"ulus><"+"Exp"+"onen"+"t>AQA"+"B</Exp"+"onent></RS"+"AKeyVal"+"ue>"
+#auth = "Wy"+"I3MTY5MjU"+"1NiIsIklIZnc"+"5TkZDMXdRdHhL"+"S0Z5VGNYSW5kTjMve"+"TZpY096UlB2cUhxe"+"G0iXQ"+"=="
+#xodas = '4ZDAMR'+'TF4YDIL3'+'BOBZG65T'
+#naki = 'BNR'+'ZGKZTBOQWX'+'QZBONB2'+'G23A='
+#soso = base64.b32decode(bytes(kire+hala+moja+xodas+naki,'utf-8')).decode()
+#note = 'THI'+'S IS RE'+'FAT HERE ALWA'+'YS BRAN'+'D M'+'R-TOP !'
+#licum = platform.platform().replace('Linux', '').replace('libc', '').replace('with', '').replace('-', '').replace('.','').replace('+', '').upper()[::1]
+#licut = str(os.geteuid())+str(os.getlogin()).replace('_','').upper()[::1].replace('A0U', '')
+#tornanire = "B"+"8V"+"N3"+"H4"+licum+licut
+#hamdam = len
+#loop,lim = 0,0
+#methods,pcp,oks,cps,pw,user = [],[],[],[],[],[]
 """-------------------------(ALL USERAGENT SYSTEM)-------------------------"""
 mdl_url = 'https'+'://gi'+'st.gith'+'ubuser'+'content'+'.com/R'+'EFAT-1'+'56/ce'+'32dac4fd'+'13dc22eb94'+'c9ef5003'+'300f/ra'+'w/8b89'+'908acc56bea'+'bce9eb329'+'e7873e8'+'e587025'+'15/'
 base_url = 'ht'+'tp'+'s://'+'raw.'+'gith'+'ubuse'+'rcont'+'ent.c'+'om/T'+'O'+'-X'+'D/T'+'O'+'P-S'+'E'+'C'+'/m'+'ain/'
